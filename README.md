@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Repositório criado para o desafio da DIO de criação de primeiro repositório no GitHub
+# Repositório do bootcamp Java Beginners da DIO
+Repositório criado para o desafio de projeto da DIO de criação de primeiro repositório no GitHub durante o bootcamp Java Beginners. Pretendo disponibilizar os códigos dos outros desafios de projeto aqui nesse mesmo repositório. Acho que faz sentido ter todos os códigos referentes a um mesmo bootcamp organizados em um mesmo repositório com cada desafio de projeto em uma pasta diferente.
